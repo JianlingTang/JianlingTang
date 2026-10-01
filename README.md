@@ -1,12 +1,12 @@
 ## 👋 Hi, I'm Janet (Jianling) Tang
 
-I'm an **ML / software engineer** who takes ideas all the way to production — from **data pipelines and statistical models** to **tested Python packages** and **LLM agents deployed on the cloud**.
+I'm a **machine learning and software engineer** who takes **POCs and ideas to production** — from **data pipelines and statistical models** to **tested Python packages** and **LLM agents deployed on the cloud**.
 
-During my **PhD in Astrophysics at ANU**, I delivered projects **from research idea to deployed apps and pipelines**, and published the results as a **first-author paper in [MNRAS](https://doi.org/10.1093/mnras/stae1799)**, a top-tier peer-reviewed journal. Along the way I worked with large, noisy datasets and built my toolkit in **Bayesian inference, MCMC, forward modelling, selection-bias correction and uncertainty quantification**.
+During my **PhD in Astrophysics at ANU**, I delivered projects **from research idea to deployed apps and pipelines**, and published **three papers in top-tier peer-reviewed journals**. Along the way I worked with large, noisy datasets and built my toolkit in **Bayesian inference, forward modelling and uncertainty quantification**.
 
-Before that I worked as a **full-stack web developer** at ADACS, and I hold the **AWS Certified Cloud Practitioner** certification. I care about systems that are **reproducible, tested and honest about their limits**.
+I worked as a **full-stack web developer** at ADACS, and I hold the **AWS Certified Cloud Practitioner** and **AWS Certified Machine Learning Engineer – Associate** certifications. I care about systems that are **reproducible, tested and honest about their limits**.
 
-📍 Sydney · 🎓 PhD submitting Oct 2026 · 💼 **Open to ML / Software Engineer roles**
+📍 Sydney · 💼 **Open to ML / Software Engineer roles**
 
 ---
 
@@ -59,4 +59,4 @@ Before that I worked as a **full-stack web developer** at ADACS, and I hold the 
 
 - 💌 Email: [tangjianling1999@gmail.com](mailto:tangjianling1999@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/jianling-janet-tang](https://www.linkedin.com/in/jianling-janet-tang/)
-- 📚 Publication: [Tang, Grasha & Krumholz (2024), MNRAS 532, 4583](https://doi.org/10.1093/mnras/stae1799)
+- 📚 Selected publication: [Tang, Grasha & Krumholz (2024), MNRAS 532, 4583](https://doi.org/10.1093/mnras/stae1799)
